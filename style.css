@@ -1,6 +1,7 @@
 h1{color:blue;}
 body{background-color: aqua;}
 *{font-style: italic;}
-#box{background-color: blue;}
 .class1{box-shadow: 2px 2px 2px black;}
 .heading{color: burlywood;}
+button{background-color: blue;}
+#box{text-align: center;}

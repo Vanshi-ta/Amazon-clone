@@ -34,6 +34,16 @@ nav {
     outline: 1px solid white;
 }
 
+.top-text{
+    font-size: 0.6rem;
+    padding-bottom: 2px;
+}
+
+.bottom-text{
+    font-size: 0.8rem;
+    padding-left: 3px;
+}
+
 .location {
     height: 100%;
     font-size: .7rem;

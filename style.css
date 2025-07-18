@@ -241,6 +241,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    padding-bottom: 2px;
 }
 
 .carousel .slides-container {
@@ -315,11 +316,10 @@ main {
     flex-wrap: wrap;
     gap: 1.5rem;
     background-color: #c9cbcf82;
-    padding: 0 2rem 2rem 2rem;
+    padding:  2rem 2rem 2rem;
 }
 
 .item-card {
-    height: 400px;
     display: flex;
     flex-direction: column;
     flex: 1 0 300px;
@@ -332,10 +332,7 @@ main {
 }
 
 .item-card img {
-    height: 300px;
-    width: 100%;
-    border: 2px solid black;
-    object-fit: cover;
+    height: 350px;
 }
 
 .item-card a {
